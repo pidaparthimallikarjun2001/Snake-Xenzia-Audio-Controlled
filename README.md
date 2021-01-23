@@ -1,4 +1,4 @@
-# Snake-Xenzia-Audio-Controlled
+# Snake-Xenzia-Audio-Controlled(I trained it with my voice. So, it may not work well with your voice.)
 
 # OBJECTIVE
 To build a simple AI Based game using Teachable Machine
@@ -24,3 +24,4 @@ https://ml5js.org/getting-started/hello-ml5/ (some documentation) <br />
 # HOW I DID IT AND WHAT I LEARNT
 I really learnt a lot and enjoyed a lot while building this. I began to think in a broad way! I learnt how  to use Teachable Machine and a bit od ML., This journey has been very fun and exciting!!! Moreover, I developed self-learning!
 I got an overview of how a model is trained and how ML can be used!
+ 
