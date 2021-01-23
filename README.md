@@ -17,7 +17,7 @@ USE THIS LINK: https://www.youtube.com/watch?v=ASdHGZdMfF4
 
 
 # Resources Used:
-https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_115_Snake_Game_Redux/P5(For Snake Game)<br />
+https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_115_Snake_Game_Redux/P5 (For Snake Game) <br />
 https://teachablemachine.withgoogle.com/(Building Model) <br />
 https://ml5js.org/getting-started/hello-ml5/(some documentation) <br />
 
