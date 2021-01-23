@@ -17,9 +17,9 @@ USE THIS LINK: https://www.youtube.com/watch?v=ASdHGZdMfF4
 
 
 #Resources Used:
-https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_115_Snake_Game_Redux/P5(For Snake Game)
-https://teachablemachine.withgoogle.com/(Building Model)
-https://ml5js.org/getting-started/hello-ml5/(some documentation)
+https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_115_Snake_Game_Redux/P5(For Snake Game)<br />
+https://teachablemachine.withgoogle.com/(Building Model) <br />
+https://ml5js.org/getting-started/hello-ml5/(some documentation) <br />
 
 # HOW I DID IT AND WHAT I LEARNT
 I really learnt a lot and enjoyed a lot while building this. I began to think in a broad way! I learnt how  to use Teachable Machine and a bit od ML., This journey has been very fun and exciting!!! Moreover, I developed self-learning!
